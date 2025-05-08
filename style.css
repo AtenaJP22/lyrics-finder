@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  text-align: center;
+  padding: 2em;
+}
+input {
+  padding: 0.5em;
+  margin: 0.5em;
+}
+button {
+  padding: 0.5em 1em;
+}
+pre {
+  white-space: pre-wrap;
+  margin-top: 1em;
+  text-align: left;
+  max-width: 600px;
+  margin-inline: auto;
+}
