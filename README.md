@@ -3,8 +3,7 @@
 A simple web application that fetches and displays song lyrics using the [lyrics.ovh API](https://lyricsovh.docs.apiary.io/). Hosted via GitHub Pages.
 
 ## 🌐 Live Demo
-👉 [Click here to try it](https://your-username.github.io/lyrics-finder/)  
-*(Replace `your-username` with your GitHub username after deployment)*
+👉 [Click here to try it](https://AtenaJP22.github.io/lyrics-finder/)  
 
 ---
 
